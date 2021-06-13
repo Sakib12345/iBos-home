@@ -1,0 +1,50 @@
+.navBarCss {
+    background-color: #00024e;
+}
+
+.navLinkCss {
+    width: 68px;
+    height: 24px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.Free-for-SME {
+    width: 99px;
+    height: 24px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.phoneNumber {
+    width: 114px;
+    height: 24px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.headerSection {
+    width: auto;
+    height: 622px;
+    margin: 0 0 348px;
+    padding: 15px 133px 345px 135px;
+    background-color: #00024e;
+}
